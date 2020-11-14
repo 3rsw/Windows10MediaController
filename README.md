@@ -1,7 +1,8 @@
 # Windows10MediaController
 
-
-- Always visible media controller for Windows 10
+- Media controller for Windows 10
+- Remains visible even when using other windows (using compact overlay mode)
 - Basic media controls (play/pause/next/previous) and displays the song name and artist. 
 - Works with YouTube, SoundCloud, Spotify and many more.
-- Created using UWP in order to take advantage of SMTC and can be built using visual studio 
+- Created using UWP in order to take advantage of SMTC 
+- Can be built using visual studio 
