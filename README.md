@@ -6,3 +6,4 @@
 - Works with YouTube, SoundCloud, Spotify and many more.
 - Created using UWP in order to take advantage of SMTC 
 - Can be built using visual studio 
+- For those new to UWP, the code of interest is in MainPage.xaml and MainPage.xaml.cs
